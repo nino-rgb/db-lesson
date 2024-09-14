@@ -1,0 +1,1 @@
+-- SQL here is executed at Docker startup
